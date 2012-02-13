@@ -31,6 +31,7 @@ group :test, :development do
 	gem 'growl'
 	gem 'test-unit'
 	# gem 'minitest'
+	gem 'launchy'
 end
 
 # To use ActiveModel has_secure_password
